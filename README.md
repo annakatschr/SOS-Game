@@ -1,5 +1,5 @@
-### SOS Game
-## Using AI
+## SOS Game
+### Using AI
 
 You can play an "SOS" game with the computer!
 
